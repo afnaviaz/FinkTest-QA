@@ -1,0 +1,6 @@
+Error en la petición POST: 422
+Mensaje de error: {
+  "description": {
+    "text": "La contraseña no cumple con los parámetros: Debe contar con mínimo 8 caracteres, una letra minúscula, un carácter especial y un número."
+  }
+}

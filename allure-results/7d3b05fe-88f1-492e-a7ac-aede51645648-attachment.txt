@@ -1,0 +1,4 @@
+Error en la petición POST: 500
+Mensaje de error: {
+  "message": "internal server error"
+}

@@ -1,0 +1,8 @@
+Error en la petición POST: 422
+Mensaje de error: {
+  "description": [
+    {
+      "text": "El número de teléfono no es válido para DK"
+    }
+  ]
+}

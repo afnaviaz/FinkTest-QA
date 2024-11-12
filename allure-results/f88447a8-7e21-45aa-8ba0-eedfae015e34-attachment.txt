@@ -1,0 +1,6 @@
+Error en la petición POST: 422
+Mensaje de error: {
+  "description": {
+    "text": "Country not aviable for onboarding"
+  }
+}

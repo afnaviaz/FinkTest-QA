@@ -1,0 +1,8 @@
+Respuesta completa: {
+  "data": {
+    "request_token": "5969741a-8af7-4f13-92f4-6075fda1febe",
+    "number_phone": "+(57)********49",
+    "alpha2": "co"
+  }
+}
+Prueba exitosa: Usuario creado correctamente.

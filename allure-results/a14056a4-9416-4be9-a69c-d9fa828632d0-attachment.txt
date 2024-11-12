@@ -1,0 +1,43 @@
+Error en la petición POST: 400
+Mensaje de error: {
+  "validation_error": {
+    "body_params": [
+      {
+        "input": {
+          "cellphone_number": "3178696749",
+          "country": 99,
+          "country_company": 99,
+          "country_indicative": 57,
+          "email": "alysha64@yopmail.com",
+          "identity_number_company": "685781509",
+          "name": "Nathaniel",
+          "surname": "Graham"
+        },
+        "loc": [
+          "password"
+        ],
+        "msg": "Field required",
+        "type": "missing",
+        "url": "https://errors.pydantic.dev/2.8/v/missing"
+      },
+      {
+        "input": {
+          "cellphone_number": "3178696749",
+          "country": 99,
+          "country_company": 99,
+          "country_indicative": 57,
+          "email": "alysha64@yopmail.com",
+          "identity_number_company": "685781509",
+          "name": "Nathaniel",
+          "surname": "Graham"
+        },
+        "loc": [
+          "post"
+        ],
+        "msg": "Field required",
+        "type": "missing",
+        "url": "https://errors.pydantic.dev/2.8/v/missing"
+      }
+    ]
+  }
+}
