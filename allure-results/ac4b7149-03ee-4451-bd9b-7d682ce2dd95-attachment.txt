@@ -1,0 +1,3 @@
+(node:80679) ExperimentalWarning: CommonJS module /Users/andresnavia/Documents/AutomationE2E-FK/FinkTest-QA/tests/utils/apiUtils.ts is loading ES Module /Users/andresnavia/Documents/AutomationE2E-FK/FinkTest-QA/node_modules/axios/index.js using require().
+Support for loading ES Module in require() is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
