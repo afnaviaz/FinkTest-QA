@@ -14,8 +14,6 @@ let url:string = "https://app-staging.finkargo.com.co/auth/login";
 let username:string = "finkargo-admin";
 let password:string = "finkargo";
 
-
-
 test('El usuario puede agregar un garantia', async({page}) =>  {
     
     const user = Actor.named("usuario").can(BrowseTheWeb.using(page));
